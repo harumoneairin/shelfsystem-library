@@ -1,0 +1,13 @@
+# Mengabaikan folder dependencies
+node_modules/
+
+# Mengabaikan file environment / rahasia
+.env
+
+# Mengabaikan file log
+*.log
+
+# Mengabaikan folder build atau cache
+dist/
+build/
+.DS_Store
